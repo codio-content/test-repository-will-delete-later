@@ -1,0 +1,36 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-1313655942",
+  "source": {
+   "name": "testing",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "preExecuteCommand": "",
+   "command": "python3 test.py",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "a test coding test",
+   "learningObjectives": "",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": false,
+    "ignoreNewline": false,
+    "matchSubstring": false,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "hello world\n",
+     "showFeedback": false,
+     "feedback": ""
+    }
+   ]
+  }
+ }
+]
