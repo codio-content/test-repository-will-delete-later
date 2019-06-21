@@ -2,11 +2,11 @@
  "sections": [
   {
    "id": "71567237-e175-8e2d-2823-fe0095b06ee9",
-   "title": "Page 1",
+   "title": "Introduction",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Page-1-7156.md",
+   "content-file": ".guides/content/Introduction-7156.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -28,6 +28,13 @@
  "theme": "light",
  "scripts": [],
  "lexikonTopic": "",
+ "suppressPageNumbering": false,
  "useSubmitButtons": true,
- "useMarkAsComplete": true
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
 }
